@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Agaaz</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="agaaz">Agaaz</string>
+    //Spinner
+    <string-array name="soiltype">
+        <item>Rice</item>
+        <item>Jowar</item>
+        <item>Maize</item>
+        <item>Ragi</item>
+        <item>Cotton</item>
+        <item>Bajra</item>
+        <item>Sugarcane</item>
+        <item>Jute</item>
+        <item>Wheat</item>
+        <item>Peas</item>
+        <item>Pulses</item>
+        <item>Mustard</item>
+    </string-array>
+    <string-array name="croptype">
+        <item>Sandy</item>
+        <item>Silty</item>
+        <item>Clay</item>
+        <item>Peaty</item>
+        <item>Saline</item>
+    </string-array>
+
+    //Menu
+    <string name="profile">Profile</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="location">Location</string>
+    <string name="taf">Tell a friend</string>
+    <string name="ru">Rate Us</string>
+    //Main Fragment
+    <string name="harvest">Harvest</string>
+    //New Harvest
+    <string name="nharvest">New Harvest</string>
+    <string name="stype">Soil Type</string>
+    <string name="crop">Crop</string>
+    <string name="fsize">Field Size in hectares</string>
+    <string name="dos">Date of Sowing</string>
+    <string name="update">Update</string>
+    //Ongoing Harvest
+    <string name="oharvest">Ongoing Harvest</string>
+    <string name="report">Report</string>
+    <string name="temp">Temperature</string>
+    <string name="moisture">Moisture</string>
+    <string name="humidity">Humidity</string>
+    <string name="ctc">Capture the crop</string>
+    <string name="fertilizer">Fertilizer</string>
+    <string name="poh">Phase of Harvesting</string>
+    <string name="wr">Water Requirement</string>
+    <string name="wf">Weather Forecast</string>
+    <string name="lyd">Last Year Data</string>
+    <string name="cwf">Chat with farmer</string>
+    <string name="ce">Call Expert</string>
+    //nav header main
+    <string name="subtitle">An app for better future</string>
+    //register
+    <string name="en">Name</string>
+    <string name="eu">Username</string>
+    <string name="ep">Password</string>
+    <string name="register">Register</string>
+    <string name="ar">Already registered? Login</string>
+    //login
+    <string name="login">Login</string>
+    <string name="su">Not a member? Sign up now.</string>
+    //profile
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome</string>
+</resources>

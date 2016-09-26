@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">आगाज</string>
+    <string-array name="soiltype">
+        <item>चावल</item>
+        <item>ज्वार</item>
+        <item>मक्का</item>
+        <item>रागी</item>
+        <item>कपास</item>
+        <item>बाजरे</item>
+        <item>गन्ना</item>
+        <item>जूट</item>
+        <item>गेहूँ</item>
+        <item>मटर</item>
+        <item>दाल</item>
+        <item>सरसों</item>
+    </string-array>
+    <string-array name="croptype">
+        <item>बलुआ</item>
+        <item>रेग</item>
+        <item>चिकनी मिट्टी</item>
+        <item>दलदला</item>
+        <item>खारा</item>
+    </string-array>
+    <string name="agaaz">आगाज</string>
+    <string name="ce">कॉल विशेषज्ञ</string>
+    <string name="crop"> फ़सल</string>
+    <string name="cwf">किसान के साथ चैट</string>
+    <string name="dos">बुवाई की तारीख</string>
+    <string name="english"> अंग्रेज़ी</string>
+    <string name="fertilizer"> उर्वरक</string>
+    <string name="fsize">मैदान की माप</string>
+    <string name="harvest">उपज</string>
+    <string name="hindi">हिंदी</string>
+    <string name="humidity"> आर्द्रता</string>
+    <string name="language">भाषा</string>
+    <string name="location"> स्थान</string>
+    <string name="lyd">पिछले साल डेटा</string>
+    <string name="moisture">नमी</string>
+    <string name="navigation_drawer_close">बंद नेविगेशन दराज</string>
+    <string name="navigation_drawer_open">ओपन नेविगेशन दराज</string>
+    <string name="nharvest">नई फसल</string>
+    <string name="oharvest">चल रही फसल</string>
+    <string name="poh">कटाई के चरण</string>
+    <string name="profile">प्रोफाइल</string>
+    <string name="ru">हमें रेटिंग दें</string>
+    <string name="stype">मिट्टी के प्रकार</string>
+    <string name="subtitle"> बेहतर भविष्य के लिए एप्लिकेशन</string>
+    <string name="taf">एक दोस्त बताओ</string>
+    <string name="temp">तापमान</string>
+    <string name="wf">मौसम पूर्वानुमान</string>
+    <string name="wr">पानी की आवश्यकता</string>
+    <string name="ctc">फसल की तस्वीर क्लिक करें</string>
+    <string name="ar">पहले से ही पंजीकृत? लॉगिन</string>
+    <string name="en">नाम</string>
+    <string name="ep">पासवर्ड</string>
+    <string name="eu"> उपयोगकर्ता नाम</string>
+    <string name="login">लॉगिन</string>
+    <string name="logout">लोग आउट</string>
+    <string name="register"> पंजी</string>
+    <string name="su">सदस्य नहीं है? अभी साइनअप करें</string>
+    <string name="welcome">स्वागत</string>
+    <string name="name">नाम</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="report">विवरण</string>
+    <string name="update">अद्यतन</string>
+</resources>

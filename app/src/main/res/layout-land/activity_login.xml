@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/register"
+    android:weightSum="1">
+    <ImageView
+        android:layout_width="88dp"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/logo"
+        android:layout_weight="0.2" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/agaaz"
+        android:layout_marginBottom="20dp"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"/>
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#ffffff"
+        android:textColor="#ffffff"
+        android:textAlignment="center"
+        android:hint="@string/eu"/>
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/ep"
+        android:textColorHint="#ffffff"
+        android:textColor="#ffffff"
+        android:textAlignment="center"
+        android:inputType="textPassword"/>
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2eb82e"
+        android:textColor="#145214"
+        android:textSize="18sp"
+        android:text="@string/login"/>
+    <Button
+        android:background="@android:color/transparent"
+        android:id="@+id/btnLinkToRegisterScreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#007399"
+        android:textSize="18sp"
+        android:text="@string/su"/>
+</LinearLayout>
